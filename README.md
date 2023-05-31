@@ -1,9 +1,9 @@
-### Hey Quing 👋
+### Dum grids
 
 <!--
-**LykkeLotte/lykkelotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LykkeLotte/lykkelotte**
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on a secrete
 - 🌱 I’m currently learning words
